@@ -1,4 +1,4 @@
-export class Producto {
+class Producto {
 
     static contadorProducto = 0;
     _id;
